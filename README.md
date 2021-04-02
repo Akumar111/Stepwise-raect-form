@@ -19,5 +19,5 @@ npm run build
 ![Page3](https://github.com/Akumar111/Stepwise-react-form/blob/main/public/images/image3.jpeg?raw=true)
 ![Page4](https://github.com/Akumar111/Stepwise-react-form/blob/main/public/images/image4.jpeg?raw=true)
 
-<img src="https://github.com/Akumar111/Stepwise-react-form/blob/main/public/images/image1.jpeg?raw=true" width="200" height="400"/>
+<img src="https://github.com/Akumar111/Stepwise-react-form/blob/main/public/images/image1.jpeg?raw=true" width="400" height="800"/>
 
