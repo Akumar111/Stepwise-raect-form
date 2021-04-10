@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stepwise-react-form/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Stepwise-react-form/static/js/main.6b463e6c.chunk.js",
+    "main.js.map": "/Stepwise-react-form/static/js/main.6b463e6c.chunk.js.map",
+    "runtime-main.js": "/Stepwise-react-form/static/js/runtime-main.5d267817.js",
+    "runtime-main.js.map": "/Stepwise-react-form/static/js/runtime-main.5d267817.js.map",
+    "static/js/2.aab4c0d9.chunk.js": "/Stepwise-react-form/static/js/2.aab4c0d9.chunk.js",
+    "static/js/2.aab4c0d9.chunk.js.map": "/Stepwise-react-form/static/js/2.aab4c0d9.chunk.js.map",
+    "static/js/3.e4e938b2.chunk.js": "/Stepwise-react-form/static/js/3.e4e938b2.chunk.js",
+    "static/js/3.e4e938b2.chunk.js.map": "/Stepwise-react-form/static/js/3.e4e938b2.chunk.js.map",
+    "index.html": "/Stepwise-react-form/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Stepwise-react-form/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.aab4c0d9.chunk.js.LICENSE.txt": "/Stepwise-react-form/static/js/2.aab4c0d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d267817.js",
+    "static/js/2.aab4c0d9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6b463e6c.chunk.js"
+  ]
+}
